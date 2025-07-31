@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model files (tracked by Git LFS separately)
+*.pkl
+
+# Dataset backups or temporary data
+*.csv~
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE configs
+.vscode/
+.idea/
+
+# Streamlit cache and config
+.streamlit/
+**/__pycache__/
+
+# Python environment files
+.env
+*.env
+
+# PyInstaller
+*.spec
+
+# Test coverage
+.coverage
+htmlcov/
