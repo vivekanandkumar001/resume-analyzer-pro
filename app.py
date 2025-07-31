@@ -1,5 +1,5 @@
 # ===========================
-# Updated app.py for BERT-based model
+# app.py for BERT-based model
 # ===========================
 
 import streamlit as st
