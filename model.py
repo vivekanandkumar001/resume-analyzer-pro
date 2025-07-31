@@ -1,6 +1,6 @@
 # ===========================
-# Updated model.py
-# Uses BERT (sentence-transformers) instead of TF-IDF
+# model.py
+# Uses BERT (sentence-transformers) 
 # ===========================
 
 import pandas as pd
