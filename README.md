@@ -17,3 +17,17 @@ An intelligent, BERT-powered resume screening app built with Streamlit. It predi
 
 ## 📂 Project Structure
 
+resume-insight-ai/
+│
+├── app.py                   # Streamlit app for uploading and predicting resumes
+├── model.py                 # Script for training model using BERT embeddings
+├── UpdatedResumeDataSet.csv # Labeled resume data (text + category)
+│
+├── model.pkl                # Trained Logistic Regression model
+├── vectorizer.pkl           # BERT model (SentenceTransformer: all-MiniLM-L6-v2)
+├── encoder.pkl              # LabelEncoder for job categories
+│
+├── requirements.txt         # Python dependencies
+├── README.md                # Project overview and instructions
+├── .gitattributes           # Git LFS tracking for large files (.pkl)
+└── .gitignore               # Optional: ignores venv, .pkl, etc. in commits
