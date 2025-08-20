@@ -1,0 +1,10 @@
+
+flask
+pdfplumber
+python-docx
+reportlab
+nltk
+torch
+numpy
+scikit-learn
+pandas

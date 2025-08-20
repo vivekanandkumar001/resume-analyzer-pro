@@ -1,0 +1,2 @@
+timestamp,resume_id,target_role,skill,project_title,reward
+2025-08-18T05:19:05.638237,demo_resume_1,Data Scientist,pytorch,Train a custom model in PyTorch Lightning; add early stopping & logging.,-1
